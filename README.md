@@ -1,10 +1,10 @@
 
-**#####Smart irrigation using Iot**
+#######**Smart irrigation using Iot**
 
-- **Inspiration**
+**Inspiration**
 Irrigation is the most important agricultural input in a tropical monsoon country like India where rainfall is uncertain, unreliable and erratic India cannot achieve sustained progress in agriculture unless and until more than half of the cropped area is brought under assured irrigation.Intensive irrigation has lead to sharp rise in sub-soil water,leading to water-logging,soil salinity and alkalinity.It also leds to large wastage of human labour.Hence, crops are affected by the ill-effects of bad irrigation.
 
-- PROPOSED SOLUTION 
+**PROPOSED SOLUTION**
 The aim of this project is to develop a smart irrigation monitoring system using arduino UNO. Focus area will be parameters such as temperature and soil moisture. An automated irrigation system is developed to optimize water use for different agricultural crops according to their VWC(volumetric water content). The objective of this project is to control the water pump automatically, using the readings of the temperature and soil moisture sensor and to notify the farmer about status of irrigation in the farm.
 
 TECH/FRAMEWORK USED:
