@@ -1,7 +1,6 @@
+**SMART IRRIGATION USING Iot**
 
-#######**Smart irrigation using Iot**
-
-**Inspiration**
+*Inspiration*
 Irrigation is the most important agricultural input in a tropical monsoon country like India where rainfall is uncertain, unreliable and erratic India cannot achieve sustained progress in agriculture unless and until more than half of the cropped area is brought under assured irrigation.Intensive irrigation has lead to sharp rise in sub-soil water,leading to water-logging,soil salinity and alkalinity.It also leds to large wastage of human labour.Hence, crops are affected by the ill-effects of bad irrigation.
 
 **PROPOSED SOLUTION**
