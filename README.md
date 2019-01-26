@@ -28,8 +28,8 @@ The sensors are intefaced with the arduino with their appropriate pin numbers to
 
 
 *__Block diagram__*
-  <a href="https://ibb.co/ncVtk04"><img src="https://i.ibb.co/Phb0CYJ/s-png.png" alt="s-png" border="2"></a>
+- <a href="https://ibb.co/ncVtk04"><img src="https://i.ibb.co/Phb0CYJ/s-png.png" alt="s-png" border="2"></a>
 
 **__Flow Chart__**
-  <a href="https://ibb.co/znH0F1X"><img src="https://i.ibb.co/6nJf82H/hack.png" alt="hack" border="0"></a>
+- <a href="https://ibb.co/znH0F1X"><img src="https://i.ibb.co/6nJf82H/hack.png" alt="hack" border="0"></a>
 
