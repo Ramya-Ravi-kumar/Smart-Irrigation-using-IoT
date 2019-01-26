@@ -24,11 +24,8 @@ The automation of the water pump is done using motor connected through a relay w
 The water level in the reserviour is monitored using a ultrasonic sensor which will notify the farmer with a messgae if the water level is low through GSM SIM900A module.
 DESCRIPTION OF THE CODE: sensors.ino - This code implements reading the values of soil moisture and DHT11 Sensor. It triggers the water pump motor which is connected through a relay when the moisture value goes below a specific limit. GSM.ino - This code is used to monitor the water reservoir which supplies water to the field and when the tank is almost empty, a message is sent to the farmer using GSM SIM900A Module.
 
-BLOCK DIAGRAM:s-png
+BLOCK DIAGRAM:
+<a href="https://ibb.co/ncVtk04"><img src="https://i.ibb.co/Phb0CYJ/s-png.png" alt="s-png" border="0"></a>
 
+FLOW CHART:<a href="https://ibb.co/znH0F1X"><img src="https://i.ibb.co/6nJf82H/hack.png" alt="hack" border="0"></a>
 
-
-
-
-
-FLOW CHART:hack
