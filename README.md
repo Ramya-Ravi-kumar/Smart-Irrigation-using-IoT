@@ -27,8 +27,9 @@ The water level in the reserviour is monitored using a ultrasonic sensor which w
 The sensors are intefaced with the arduino with their appropriate pin numbers to which they are connected.A baud rate of 9600 is used for communicating with the port channels.The moisture sensor and DHT11 sensor constantly display their readings through the serial monitor.When the moisture content for a particluar plant goes below its required water content,the water pump pin goes high and hence plant is watered.The temperature of the atmosphere is also monitored regularly,which, when detected very high causes the the pump to be triggered again.The monitoring of the water reserviour is done throough a ultrasonic sensor which intimates the farmer through a text message generated with a GSM module to refill the same.Find the code here.[Code Implementation for this project](Implementation.ino) 
 
 
-BLOCK DIAGRAM:
-- <a href="https://ibb.co/ncVtk04"><img src="https://i.ibb.co/Phb0CYJ/s-png.png" alt="s-png" border="0"></a>
+*__Block diagram__*
+- <a href="https://ibb.co/ncVtk04"><img src="https://i.ibb.co/Phb0CYJ/s-png.png" alt="s-png" border="2"></a>
 
-FLOW CHART:<a href="https://ibb.co/znH0F1X"><img src="https://i.ibb.co/6nJf82H/hack.png" alt="hack" border="0"></a>
+*__Flow Chart__*
+- <a href="https://ibb.co/znH0F1X"><img src="https://i.ibb.co/6nJf82H/hack.png" alt="hack" border="0"></a>
 
