@@ -6,8 +6,7 @@ Inspiration: Irrigation is the most important agricultural input in a tropical m
 PROPOSED SOLUTION : The aim of this project is to develop a smart irrigation monitoring system using arduino UNO. Focus area will be parameters such as temperature and soil moisture. An automated irrigation system is developed to optimize water use for different agricultural crops according to their VWC(volumetric water content). The objective of this project is to control the water pump automatically, using the readings of the temperature and soil moisture sensor and to notify the farmer about status of irrigation in the farm.
 
 TECH/FRAMEWORK USED:
-
--Arduino Uno Board
+- Arduino Uno Board
 -GSM SIM900A module
 -Soil moisture sensor
 -DHT-11 Sensor
