@@ -7,14 +7,14 @@ PROPOSED SOLUTION : The aim of this project is to develop a smart irrigation mon
 
 TECH/FRAMEWORK USED:
 
-Arduino Uno Board
-GSM SIM900A module
-Soil moisture sensor
-DHT-11 Sensor
-Ultrasonic sensor
-Silicon Tubing
-Water Pump and motor
-Arduino IDE 1.8.8
+-Arduino Uno Board
+-GSM SIM900A module
+-Soil moisture sensor
+-DHT-11 Sensor
+-Ultrasonic sensor
+-Silicon Tubing
+-Water Pump and motor
+-Arduino IDE 1.8.8
 WORKING PRINCIPLE :
 
 Soil moisture sensor is inserted into the soil to detect the moisture percentage continously.
